@@ -1,0 +1,6 @@
+D:\SoftUni\Домашни\02. SimpleCalculations\SquareArea\bin\Debug\SquareArea.exe.config
+D:\SoftUni\Домашни\02. SimpleCalculations\SquareArea\bin\Debug\SquareArea.exe
+D:\SoftUni\Домашни\02. SimpleCalculations\SquareArea\bin\Debug\SquareArea.pdb
+D:\SoftUni\Домашни\02. SimpleCalculations\SquareArea\obj\Debug\SquareArea.csprojResolveAssemblyReference.cache
+D:\SoftUni\Домашни\02. SimpleCalculations\SquareArea\obj\Debug\SquareArea.exe
+D:\SoftUni\Домашни\02. SimpleCalculations\SquareArea\obj\Debug\SquareArea.pdb

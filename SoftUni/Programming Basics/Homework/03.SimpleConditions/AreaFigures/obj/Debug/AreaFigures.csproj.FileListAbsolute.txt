@@ -1,0 +1,5 @@
+D:\SoftUni\Домашни\03.SimpleConditions\AreaFigures\bin\Debug\AreaFigures.exe.config
+D:\SoftUni\Домашни\03.SimpleConditions\AreaFigures\bin\Debug\AreaFigures.exe
+D:\SoftUni\Домашни\03.SimpleConditions\AreaFigures\bin\Debug\AreaFigures.pdb
+D:\SoftUni\Домашни\03.SimpleConditions\AreaFigures\obj\Debug\AreaFigures.exe
+D:\SoftUni\Домашни\03.SimpleConditions\AreaFigures\obj\Debug\AreaFigures.pdb

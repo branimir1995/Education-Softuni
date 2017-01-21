@@ -1,0 +1,6 @@
+D:\SoftUni\Домашни\06.DrawingWithLoops\06.DrawingWithLoops\bin\Debug\06.DrawingWithLoops.exe.config
+D:\SoftUni\Домашни\06.DrawingWithLoops\06.DrawingWithLoops\bin\Debug\06.DrawingWithLoops.exe
+D:\SoftUni\Домашни\06.DrawingWithLoops\06.DrawingWithLoops\bin\Debug\06.DrawingWithLoops.pdb
+D:\SoftUni\Домашни\06.DrawingWithLoops\06.DrawingWithLoops\obj\Debug\RectangleStars.csprojResolveAssemblyReference.cache
+D:\SoftUni\Домашни\06.DrawingWithLoops\06.DrawingWithLoops\obj\Debug\06.DrawingWithLoops.exe
+D:\SoftUni\Домашни\06.DrawingWithLoops\06.DrawingWithLoops\obj\Debug\06.DrawingWithLoops.pdb

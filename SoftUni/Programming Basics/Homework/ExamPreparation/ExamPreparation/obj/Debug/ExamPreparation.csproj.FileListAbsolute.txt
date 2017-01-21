@@ -1,0 +1,6 @@
+D:\SoftUni\Домашни\ExamPreparation\ExamPreparation\bin\Debug\ExamPreparation.exe.config
+D:\SoftUni\Домашни\ExamPreparation\ExamPreparation\bin\Debug\ExamPreparation.exe
+D:\SoftUni\Домашни\ExamPreparation\ExamPreparation\bin\Debug\ExamPreparation.pdb
+D:\SoftUni\Домашни\ExamPreparation\ExamPreparation\obj\Debug\ExamPreparation.csprojResolveAssemblyReference.cache
+D:\SoftUni\Домашни\ExamPreparation\ExamPreparation\obj\Debug\ExamPreparation.exe
+D:\SoftUni\Домашни\ExamPreparation\ExamPreparation\obj\Debug\ExamPreparation.pdb

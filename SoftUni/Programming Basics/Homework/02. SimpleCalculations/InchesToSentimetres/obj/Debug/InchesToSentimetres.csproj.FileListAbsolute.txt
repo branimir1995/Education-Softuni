@@ -1,0 +1,6 @@
+D:\SoftUni\Домашни\02. SimpleCalculations\InchesToSentimetres\bin\Debug\InchesToSentimetres.exe.config
+D:\SoftUni\Домашни\02. SimpleCalculations\InchesToSentimetres\bin\Debug\InchesToSentimetres.exe
+D:\SoftUni\Домашни\02. SimpleCalculations\InchesToSentimetres\bin\Debug\InchesToSentimetres.pdb
+D:\SoftUni\Домашни\02. SimpleCalculations\InchesToSentimetres\obj\Debug\InchesToSentimetres.exe
+D:\SoftUni\Домашни\02. SimpleCalculations\InchesToSentimetres\obj\Debug\InchesToSentimetres.pdb
+D:\SoftUni\Домашни\02. SimpleCalculations\InchesToSentimetres\obj\Debug\InchesToSentimetres.csprojResolveAssemblyReference.cache

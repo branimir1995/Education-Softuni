@@ -1,0 +1,6 @@
+D:\SoftUni\Домашни\01. FirstStepsIntoCoding\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+D:\SoftUni\Домашни\01. FirstStepsIntoCoding\SquareOfStars\bin\Debug\SquareOfStars.exe
+D:\SoftUni\Домашни\01. FirstStepsIntoCoding\SquareOfStars\bin\Debug\SquareOfStars.pdb
+D:\SoftUni\Домашни\01. FirstStepsIntoCoding\SquareOfStars\obj\Debug\SquareOfStars.exe
+D:\SoftUni\Домашни\01. FirstStepsIntoCoding\SquareOfStars\obj\Debug\SquareOfStars.pdb
+D:\SoftUni\Домашни\01. FirstStepsIntoCoding\SquareOfStars\obj\Debug\SquareOfStars.csprojResolveAssemblyReference.cache

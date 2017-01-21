@@ -1,0 +1,6 @@
+D:\SoftUni\Домашни\01. FirstStepsIntoCoding\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\SoftUni\Домашни\01. FirstStepsIntoCoding\HelloCSharp\bin\Debug\HelloCSharp.exe
+D:\SoftUni\Домашни\01. FirstStepsIntoCoding\HelloCSharp\bin\Debug\HelloCSharp.pdb
+D:\SoftUni\Домашни\01. FirstStepsIntoCoding\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
+D:\SoftUni\Домашни\01. FirstStepsIntoCoding\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\SoftUni\Домашни\01. FirstStepsIntoCoding\HelloCSharp\obj\Debug\HelloCSharp.pdb

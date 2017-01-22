@@ -1,0 +1,5 @@
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\Elevator\bin\Debug\Elevator.exe.config
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\Elevator\bin\Debug\Elevator.exe
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\Elevator\bin\Debug\Elevator.pdb
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\Elevator\obj\Debug\Elevator.exe
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\Elevator\obj\Debug\Elevator.pdb

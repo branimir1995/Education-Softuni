@@ -1,0 +1,6 @@
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.exe.config
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.exe
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.pdb
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\CenturiesToMinutes.csprojResolveAssemblyReference.cache
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.exe
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.pdb

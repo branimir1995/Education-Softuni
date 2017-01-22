@@ -1,0 +1,5 @@
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\ExactSum\bin\Debug\ExactSum.exe.config
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\ExactSum\bin\Debug\ExactSum.exe
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\ExactSum\bin\Debug\ExactSum.pdb
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\ExactSum\obj\Debug\ExactSum.exe
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\ExactSum\obj\Debug\ExactSum.pdb

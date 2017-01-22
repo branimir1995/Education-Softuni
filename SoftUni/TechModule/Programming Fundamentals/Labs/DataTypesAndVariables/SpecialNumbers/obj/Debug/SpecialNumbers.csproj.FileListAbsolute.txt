@@ -1,0 +1,6 @@
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\SpecialNumbers\obj\Debug\SpecialNumbers.csprojResolveAssemblyReference.cache
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+D:\Education-Softuni\SoftUni\TechModule\Programming Fundamentals\Labs\DataTypesAndVariables\SpecialNumbers\obj\Debug\SpecialNumbers.pdb

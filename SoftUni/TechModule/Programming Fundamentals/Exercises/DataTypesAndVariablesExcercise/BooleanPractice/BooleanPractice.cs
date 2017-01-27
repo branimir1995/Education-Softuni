@@ -10,11 +10,11 @@ namespace BooleanPractice
             string input = Console.ReadLine();
             bool boolean = Convert.ToBoolean(input);
 
-            if (input == "True")
+            if (boolean == true)
             {
                 Console.WriteLine("Yes");
             }
-            else if (input == "False")
+            else if (boolean == false)
             {
                 Console.WriteLine("No");
             }

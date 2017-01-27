@@ -9,6 +9,7 @@ namespace HexadecimalConversion
         {
             string hexa = Console.ReadLine();
             var num = Convert.ToInt32(hexa, 16);
+             
 
             Console.WriteLine(num);
 

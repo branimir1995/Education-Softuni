@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopByStep3", "LoopByStep3\LoopByStep3.csproj", "{5E946738-314A-4BD3-92F5-9A87F6354D23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseLoop", "ReverseLoop\ReverseLoop.csproj", "{C6D0CE24-3A47-45C9-8278-004D5D06D708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationByTwo", "NFactor\MultiplicationByTwo.csproj", "{1FADB63D-7AB6-4934-9348-A78ACE61C711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenDegreesOfTwo", "EvenDegreesOfTwo\EvenDegreesOfTwo.csproj", "{954DDBA4-543E-4D9C-BA61-B35EF9731C15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E946738-314A-4BD3-92F5-9A87F6354D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E946738-314A-4BD3-92F5-9A87F6354D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E946738-314A-4BD3-92F5-9A87F6354D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E946738-314A-4BD3-92F5-9A87F6354D23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6D0CE24-3A47-45C9-8278-004D5D06D708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D0CE24-3A47-45C9-8278-004D5D06D708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D0CE24-3A47-45C9-8278-004D5D06D708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D0CE24-3A47-45C9-8278-004D5D06D708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FADB63D-7AB6-4934-9348-A78ACE61C711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FADB63D-7AB6-4934-9348-A78ACE61C711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FADB63D-7AB6-4934-9348-A78ACE61C711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FADB63D-7AB6-4934-9348-A78ACE61C711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{954DDBA4-543E-4D9C-BA61-B35EF9731C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954DDBA4-543E-4D9C-BA61-B35EF9731C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954DDBA4-543E-4D9C-BA61-B35EF9731C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954DDBA4-543E-4D9C-BA61-B35EF9731C15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
